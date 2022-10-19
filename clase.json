@@ -1,0 +1,34 @@
+[
+    {
+        "clase":"programacion base de datos",
+        "profesor":"Jesus Parra",
+        "seccion":[
+            {
+                "cod":"001D",
+                "dia":"lunes",
+                "hora":"8:00-9:30"
+            },
+            {
+                "cod":"002D",
+                "dia":"martes",
+                "hora":"14:00-15:30"
+            }
+        ]
+    },
+    {
+        "clase":"programacion aplicaciones moviles",
+        "profesor":"Yaravi Villega",
+        "seccion":[
+            {
+                "cod":"012D",
+                "dia":"jueves",
+                "hora":"12:30-14:30"
+            },
+            {
+                "cod":"013D",
+                "dia":"viernes",
+                "hora":"10:00-12:30"
+            }
+        ]
+    }
+]
